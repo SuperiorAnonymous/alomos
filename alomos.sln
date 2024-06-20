@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "alomos", ".", "{58D0B4CE-BDC8-4827-BC5D-69509A7C5EE0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/alomos"
+		Debug.AspNetCompiler.PhysicalPath = "..\alomos\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\alomos\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/alomos"
+		Release.AspNetCompiler.PhysicalPath = "..\alomos\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\alomos\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53104"
+		SlnRelativePath = "..\alomos\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D0B4CE-BDC8-4827-BC5D-69509A7C5EE0}.Debug|.NET.ActiveCfg = Debug|.NET
+		{58D0B4CE-BDC8-4827-BC5D-69509A7C5EE0}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F8B0CB1-C1A8-445A-8EEF-13070A719045}
+	EndGlobalSection
+EndGlobal
